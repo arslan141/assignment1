@@ -6,6 +6,5 @@ function isLeapYear(year) {
     }
 }
 
-// Example usage:
-console.log(isLeapYear(2024)); // Output: 2024 is a leap year.
-console.log(isLeapYear(2023)); // Output: 2023 is not a leap year.
+console.log(isLeapYear(2024));
+console.log(isLeapYear(2023));
